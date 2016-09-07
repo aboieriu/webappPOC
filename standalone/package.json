@@ -1,0 +1,9 @@
+{
+  "name": "standalone-webapp",
+  "version": "0.0.1",
+  "description": "Just a stand alone proof of concept webapp",
+  "author": "Boieriu Alexandru",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

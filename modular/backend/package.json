@@ -1,0 +1,9 @@
+{
+  "name": "backend-webapp",
+  "version": "0.0.1",
+  "description": "Just a backend proof of concept webapp",
+  "author": "Boieriu Alexandru",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
